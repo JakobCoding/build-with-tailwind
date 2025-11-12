@@ -1,2 +1,2 @@
-_**🧩 - Build With Tailwind**_
+_**🧩 - Build With Tailwind CSS**_
 ---
